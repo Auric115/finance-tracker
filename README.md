@@ -8,7 +8,7 @@ A simple CLI expense tracker application to manage personal finances. The applic
 
 Expense Tracker is a command-line application designed to help users efficiently track and manage their daily expenses. Users can view all expenses, add new ones, delete entries, and view monthly or total expense summaries. 
 
-[Learn more](https://link.com)
+[Project Description Link](https://roadmap.sh/projects/expense-tracker)
 
 ---
 
