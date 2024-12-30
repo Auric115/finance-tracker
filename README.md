@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Build a simple expense tracker application to manage your finances. The application allows users to add, delete, and view their expenses, along with a summary of expenses. 
+A simple CLI expense tracker application to manage personal finances. The application allows users to add, delete, and view their expenses, along with a summary of expenses. 
 
 ---
 
